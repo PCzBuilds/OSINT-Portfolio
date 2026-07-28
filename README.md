@@ -4,15 +4,13 @@
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### Who I Am
 
-I am an IT Security student based in Germany, approaching this field from an unconventional background in the arts. I am building practical OSINT skills with a focus on investigative research for journalism, NGO work, human rights documentation, and open-source intelligence analysis.
+I am an IT Security student, approaching this field from an unconventional background. I am building practical OSINT skills with a focus on investigative research for open-source intelligence analysis.
 
-I am a learner — but a serious one. This portfolio documents my journey from beginner to professional-grade investigator, one case and one writeup at a time.
-
-**Languages:** German (fluent) · English (fluent) · Multiple Romance languages (fluent) · Arabic (beginner) · Russian (beginner)
+This portfolio documents my journey from beginner to professional-grade investigator, one case and one writeup at a time.
 
 **Focus areas:**
 - Missing persons investigations
@@ -43,29 +41,13 @@ All investigations in this portfolio:
 
 ---
 
-### Current Status
-
-🟡 **Active learner** — building portfolio from the ground up.
-Portfolio pieces are added continuously as skills develop.
-
----
-
-### Contact
-
-*Available on request. Professional enquiries welcome from NGOs, investigative outlets, and research organisations.*
-
----
----
-
-## 🇩🇪 Deutsch
+## Deutsch
 
 ### Wer ich bin
 
-Ich bin IT-Security-Student in Deutschland mit einem ungewöhnlichen Hintergrund aus dem Bereich der Künste. Ich entwickle praktische OSINT-Fähigkeiten mit Schwerpunkt auf investigativer Recherche für Journalismus, NGO-Arbeit, Menschenrechtsdokumentation und Open-Source-Intelligence-Analyse.
+Ich bin IT-Security-Student mit einem ungewöhnlichen Hintergrund. Ich entwickle praktische OSINT-Fähigkeiten mit Schwerpunkt auf investigativer Recherche für Open-Source-Intelligence-Analyse.
 
-Ich bin Lernender, aber ein ernsthafter. Dieses Portfolio dokumentiert meinen Weg vom Anfänger zum professionellen Investigativrechercheur, eine Fallstudie nach der anderen.
-
-**Sprachen:** Deutsch (fließend) · Englisch (fließend) · Romanische Sprachen (fließend) · Arabisch (Anfänger) · Russisch (Anfänger)
+Dieses Portfolio dokumentiert meinen Weg vom Anfänger zum professionellen Investigativrechercheur, eine Fallstudie nach der anderen.
 
 **Themenschwerpunkte:**
 - Vermisstenfälle und Personenrecherche
@@ -93,16 +75,3 @@ Alle Recherchen in diesem Portfolio:
 - Folgen **ethischen OSINT-Praktiken** (kein Harassment, kein Doxxing, keine ungerechtfertigten Eingriffe in die Privatsphäre)
 - Sind mit **transparenter Methodik** und **nachvollziehbaren Quellen** dokumentiert
 - Sind im Geiste von **investigativem Journalismus und Menschenrechtsdokumentation** durchgeführt
-
----
-
-### Aktueller Stand
-
-🟡 **Aktiver Lernender** — Portfolio im Aufbau.
-Neue Beiträge werden kontinuierlich hinzugefügt.
-
----
-
-### Kontakt
-
-*Auf Anfrage verfügbar. Professionelle Anfragen von NGOs, investigativen Medien und Forschungsorganisationen sind willkommen.*
