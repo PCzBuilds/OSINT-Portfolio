@@ -103,4 +103,4 @@ Beyond the two personally-run cases, visibility into the rest of the team's work
 - **Tools referenced:** Facebook, YouTube, different Search Engines, Yandex/Google reverse image search, PimEyes (attempted, inaccessible)
 - **Frameworks referenced:** Trace Labs Search Party CTF rules and orientation materials
 
-*This report is a training/portfolio artifact. All missing-persons case data has been withheld in accordance with Trace Labs confidentiality practice. Team placement (32nd of 110) is confirmed by the author; the individual submission count is self-reported and has not been cross-checked against the official Trace Labs scoreboard.*
+*This report is a training/portfolio artifact. All missing-persons case data has been withheld in accordance with Trace Labs confidentiality practice. Team placement (32nd of 110 teams) is confirmed by the author using official TraceLabs final score.*
